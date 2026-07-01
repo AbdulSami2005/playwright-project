@@ -9,7 +9,7 @@ Automation framework built using **Playwright with JavaScript** for testing Sauc
 - **Allure Reporting** - Part 04
 - **Hooks (Setup & Teardown)** - Part 05
 - **Auto Screenshots**
-- **Step-level Reporting**
+- **Step-level Reporting***
 
 ## Project Structure
 ```
